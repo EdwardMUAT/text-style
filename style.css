@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    
+   
+}
+
+h1{
+    color: aqua;
+    text-shadow: purple;
+}
+h2{
+    color: rgb(0, 0, 0);
+    text-decoration: double;
+   
+}
+
+nav{
+    height: 400px;
+    width:  200px;
+    float:  left;
+    padding: 5px;
+    line-height: 30px; 
+}
